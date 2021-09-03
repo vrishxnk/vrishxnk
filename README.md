@@ -1,8 +1,9 @@
 # Hi, I am Vrishank! 👋
 
-### I'm a Full-Stack Developer from India 🇮🇳 </h3>
+### I'm a Full-Stack Developer and AI enthusiast.
 
 ### A little about me:
+- 🇮🇳 I am from India
 - 👦🏻 My Pronouns: He/Him
 - 🔬 I am focused on: AI/ML
 - ⚙️ I am currently working on:
