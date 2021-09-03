@@ -4,6 +4,7 @@
 
 ### A little about me:
 - 👦🏻 My Pronouns: He/Him
+- 🔬 I am focused on: AI/ML
 - ⚙️ I am currently working on:
   * **Multpile Object Tracking In Aerial Image Sequencess**
   * **Detecting Multiple Sclerosis (CNN Model)**
@@ -13,4 +14,4 @@
 - 💬 Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, and **Philosophy**.
 - ⚽️ I'm the biggest fan of **Barça** 🔵🔴
 
-### 📧 Reach me: vrishxnk@gmail.com
+### Reach me: vrishxnk@gmail.com
