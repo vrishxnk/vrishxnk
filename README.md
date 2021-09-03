@@ -11,7 +11,7 @@
   * **A robust Blockchain based on POS (Proof Of Stake) in Go**
 - 🧑🏻‍💻 I work best in: `.py`, `.go`, `.js`, `.html`, `.css`, `.java`
 - 🌱 I am currently learning **GANs and MLOps**
-- 💬 Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, and **Philosophy**.
+- 💬 Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, and **Philosophy**
 - ⚽️ **Visca El Barça** 🔵🔴
 
 ### Reach me: vrishxnk@gmail.com
