@@ -6,6 +6,6 @@
 - 👦🏻 My Pronouns: He/Him
 - ⚙️ I work with: `.py`, `.go`, `.js`, `.html`, `.css`, `.java`
 - 🌱 Learning all about **Open Source**
-- 💬 Ping me about **AI 🤖**, **Blockchain ⛓**, **Game-dev 🎮**, **Football ⚽️**, **Philosophy 🧐**
-- 👏 My team: I'm a huge fan of Barça 🔵🔴
+- 💬 Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, **Philosophy**
+- ⚽️ I'm a huge fan of Barça 🔵🔴
 - 📫 Reach me: vrishxnk@gmail.com
