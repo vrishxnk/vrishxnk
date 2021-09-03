@@ -1,6 +1,6 @@
 # Hi, I am Vrishank! 👋
 
-### I am a full-stack developer, majorly focused in AI. 
+### I am a full-stack developer, majorly focused on AI. 
 
 ### A little about me:
 - 🇮🇳 I am from India
