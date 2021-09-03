@@ -1,11 +1,10 @@
 # Hi, I am Vrishank! 👋
 
-### I'm a Full-Stack Developer and AI enthusiast.
+### I am a full-stack developer, majorly focused in AI. 
 
 ### A little about me:
 - 🇮🇳 I am from India
 - 👦🏻 My Pronouns: He/Him
-- 🔬 I am focused on: AI/ML
 - ⚙️ I am currently working on:
   * **Multpile Object Tracking In Aerial Image Sequences**
   * **Detecting Multiple Sclerosis (CNN Model)**
