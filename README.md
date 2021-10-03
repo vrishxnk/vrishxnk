@@ -13,4 +13,4 @@
 - 💬  Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, and **Philosophy**
 - ⚽️  **Visca El Barça** 🔵🔴
 
-### Reach me: vrishxnk@gmail.com
+### Reach me: vrxshxnk@gmail.com
