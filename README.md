@@ -8,7 +8,7 @@
   *  **Multpile Object Tracking In Aerial Image Sequences**
   *  **Detecting Multiple Sclerosis (CNN Model)**
   *  **A robust Blockchain based on POS (Proof Of Stake) in Go**
-- 🧑🏻‍💻  I work best in: `.py`, `.go`, `.js`, `.html`, `.css`, `.svelte`
+- 🧑🏻‍💻  I work best in: `.py`, `.java`, `.go`, `.js`, `.html`, `.css`, `.svelte`
 - 🌱  I am currently learning **GANs and MLOps**
 - 💬  Ping me about **AI**, **Blockchain**, **Game-dev**, **Football**, and **Philosophy**
 - ⚽️  **Visca El Barça** 🔵🔴
