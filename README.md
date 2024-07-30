@@ -5,8 +5,8 @@
 - 🇮🇳  I am from India
 - 👦🏻  My Pronouns: He/Him
 - ⚙️  I am currently working on:
-  *  **An RPG written in Godot.
-  *  **My very own LLM from scratch, Project Friday.**
+  *  An RPG written in Godot.
+  *  My very own LLM from scratch, **Project Friday.**
 - 🧑🏻‍💻  I work best in: `.py`, `.js`, `.java`, `.go`, `.html`, `.css`, `.svelte`
 - 🌱  I am currently learning about **Game Dev, Rust, and Golang**
 - 💬  Ping me about **Development**, **AI**, **Games**, **Football**, **Chess**, and **Philosophy**
