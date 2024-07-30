@@ -5,11 +5,11 @@
 - 🇮🇳  I am from India
 - 👦🏻  My Pronouns: He/Him
 - ⚙️  I am currently working on:
-  *  **A multiplayer RPG written in Python using PyGame and Django**
-  *  **A robust POS (Proof of Stake) Blockchain in Go**
+  *  **An RPG written in Godot.
+  *  **My very own LLM from scratch, Project Friday.**
 - 🧑🏻‍💻  I work best in: `.py`, `.js`, `.java`, `.go`, `.html`, `.css`, `.svelte`
-- 🌱  I am currently learning about **Cloud, Game Dev, and Golang**
-- 💬  Ping me about **Development**, **AI**, **Blockchain**, **Games**, **Football**, and **Philosophy**
+- 🌱  I am currently learning about **Game Dev, Rust, and Golang**
+- 💬  Ping me about **Development**, **AI**, **Games**, **Football**, **Chess**, and **Philosophy**
 - ⚽️  **Visca El Barça** 🔵🔴
 
-### Reach me: vrxshxnk@gmail.com
+### Reach me: vrish.codes | vrxshxnk@gmail.com
